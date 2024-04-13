@@ -4,7 +4,8 @@ Detecting brain tumors can be a time-consuming and error-prone process, heavily 
 
 
 
-Conclusion:
+# Conclusion:
+
 In this study, our primary goal was to develop a CNN model capable of classifying MRI images into two categories: malignant brain tumors and healthy brains with no tumors. We utilized a publicly available dataset from Kaggle, consisting of contrast-enhanced MRI images. Our CNN model achieved impressive results on various subsets of the dataset, with the following accuracy metrics on the testing data:
 
 Test Loss: 0.39058661460876465
